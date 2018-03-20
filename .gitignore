@@ -1,4 +1,5 @@
 #Ignore for Eclipse IDE
+.recommenders/
 .metadata/
 .classpath
 .project
