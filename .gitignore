@@ -1,0 +1,8 @@
+#Ignore for Eclipse IDE
+.metadata/
+.classpath
+.project
+.settings/
+
+#Ignore for Apache Maven
+target/
